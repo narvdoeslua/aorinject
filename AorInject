@@ -1,5 +1,3 @@
--- // AORINJECT MADE BY NarvThaGod
-
 getgenv().keybind = "q"
 getgenv().prediction = 0.1258
 getgenv().ballistics = 0.35
@@ -538,7 +536,7 @@ aorinjectbase([[
                                                                          888P                                 
                                                                        .J88"                            
 
-        Made By NarvThaGod
+                                 Made By NarvNA
 
 
                                 [1] Load Aorinject []] ..aorinjectstatus ..[[]
